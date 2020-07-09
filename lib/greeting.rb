@@ -1,4 +1,4 @@
 # code the #greeting method here!
 def greeting(greet)
-  puts "Hello #{greet[0]}"
+  puts "Hello (greet)"
 end
